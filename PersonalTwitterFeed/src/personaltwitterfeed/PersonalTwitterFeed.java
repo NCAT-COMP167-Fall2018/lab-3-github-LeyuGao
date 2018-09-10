@@ -60,4 +60,11 @@ public class PersonalTwitterFeed {
         return dateFormat.format(now);
     }
     
+    public static String newTweet (string[] tweets) {
+    
+    }
+    
+    
+    
+    
 }
